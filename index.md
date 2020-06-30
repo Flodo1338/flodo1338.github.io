@@ -1,3 +1,3 @@
 # Kvothe - Main Character of the king killer chronicals
-## Summary
-Kvothe: Kvothe is the protagonist of The Kingkiller Chronicle. At the young age of twelve, he is orphaned and forced to survive alone on the streets of Tarbean as a beggar. His most prominent physical features are his red hair and green eyes. Kvothe is a prodigy in the arts and arcane magic with an extraordinary memory - his prodigious feats earning him admission at the University and helping him become an infamous student during his stay. Later on, he receives informal training from an Adem mercenary and teacher, developing his martial arts education and skill. He is a very talented lute player, becoming a well-known performer at the pubs in Imre. 
+## short info
+Kvothe is the protagonist of The Kingkiller Chronicle. At the young age of twelve, he is orphaned and forced to survive alone on the streets of Tarbean as a beggar. His most prominent physical features are his red hair and green eyes. 

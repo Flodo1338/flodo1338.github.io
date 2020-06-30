@@ -5,3 +5,5 @@ Kvothe is the protagonist of The Kingkiller Chronicle. At the young age of twelv
  * Red Hair
  * Green Eyes
  * good Fluteskills
+ 
+ > Auri i love you

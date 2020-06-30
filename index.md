@@ -7,3 +7,5 @@ Kvothe is the protagonist of The Kingkiller Chronicle. At the young age of twelv
  * good Fluteskills
  
  > Auri i love you
+ 
+ <img src="https://1.bp.blogspot.com/-XCt843lmLQw/U0ai3f4xp9I/AAAAAAAADMs/srYLARU55Ow/s1600/Kvothe-_Lute_&_Seicere.jpg" />
